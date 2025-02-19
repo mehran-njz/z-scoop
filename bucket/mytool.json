@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "url": "https://example.com/mytool.zip",
+  "hash": "sha256-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  "bin": "mytool.exe",
+  "shortcuts": [
+      [
+          "mytool.exe",
+          "My Tool"
+      ]
+  ],
+  "description": "A cool tool for something",
+  "homepage": "https://example.com",
+  "license": "MIT"
+}
